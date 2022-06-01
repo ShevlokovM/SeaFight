@@ -1,5 +1,5 @@
 # SeaFight
-Учебная работа - симулятор игры в морской бой
+Учебная работа - симулятор игры в морской бой<br/>
 <img src=https://github.com/ShevlokovM/SeaFight/blob/main/morskoi-boi1.png width="500" height="350">
 
 ## Технологии
