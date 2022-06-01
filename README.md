@@ -30,5 +30,5 @@
 - в случае промаха, происходит переход хода к сопернику
 
 # Наслаждайтесь)
-![](https://github.com/ShevlokovM/SeaFight/blob/main/%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B1%D0%BE%D0%B9.jpg)
+
 <img src=https://github.com/ShevlokovM/SeaFight/blob/main/%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B1%D0%BE%D0%B9.jpg width="500" height="350">
