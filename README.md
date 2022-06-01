@@ -1,7 +1,7 @@
 # SeaFight
 Учебная работа - симулятор игры в морской бой
-![](https://github.com/ShevlokovM/SeaFight/blob/main/morskoi-boi1.png =100x20) 
-
+![](https://github.com/ShevlokovM/SeaFight/blob/main/morskoi-boi1.png) 
+<img src=[http//...](https://github.com/ShevlokovM/SeaFight/blob/main/morskoi-boi1.png) width="100" height="50">
 ## Технологии
 - C++
 - функции
