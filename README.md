@@ -1,7 +1,6 @@
 # SeaFight
 Учебная работа - симулятор игры в морской бой
-![](https://github.com/ShevlokovM/SeaFight/blob/main/morskoi-boi1.png) 
-<img src=https://github.com/ShevlokovM/SeaFight/blob/main/morskoi-boi1.png width="400" height="300">
+<img src=https://github.com/ShevlokovM/SeaFight/blob/main/morskoi-boi1.png width="500" height="350">
 
 ## Технологии
 - C++
